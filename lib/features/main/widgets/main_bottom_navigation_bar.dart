@@ -26,7 +26,7 @@ class MainBottomNavigationBar extends StatelessWidget {
           BottomNavigationBarItem(icon: Icon(Icons.comment), label: "community"),
           BottomNavigationBarItem(
               icon: Icon(Icons.account_balance), label: "program"),
-          BottomNavigationBarItem(icon: Icon(Icons.trending_up), label: "trend"),
+          // BottomNavigationBarItem(icon: Icon(Icons.trending_up), label: "trend"),
         ],
       ),
     );
